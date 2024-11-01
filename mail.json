@@ -1,0 +1,8 @@
+POST https://graph.microsoft.com/v1.0/invitations
+Content-type: application/json
+Content-length: 551
+
+{
+  "invitedUserEmailAddress": "al-basha@mail.net.sa",
+  "inviteRedirectUrl": "https://outlook.live.com/"
+}
